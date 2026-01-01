@@ -22,9 +22,9 @@ Dietelligence combines advanced AI with professional nutrition science to help y
 ## Screenshots
 
 <div align="center">
-  <img src="Appendix/DishList.PNG" alt="Dish List View" width="28%" />
-  <img src="Appendix/DishDetail.PNG" alt="Dish Detail View" width="28%" />
-  <img src="Appendix/Suggestion.PNG" alt="AI Suggestions" width="28%" />
+  <img src="Appendix/DishList.jpeg" alt="Dish List View" width="28%" />
+  <img src="Appendix/DishDetail.jpeg" alt="Dish Detail View" width="28%" />
+  <img src="Appendix/Suggestion.jpeg" alt="AI Suggestions" width="28%" />
 </div>
 
 <div align="center">
